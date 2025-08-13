@@ -1,5 +1,4 @@
-streamlit
-pandas
-scikit-learn
-imbalanced-learn
-joblib
+scikit-learn==1.6.1
+imbalanced-learn==0.13.0
+pandas==2.3.0
+joblib==1.4.2
