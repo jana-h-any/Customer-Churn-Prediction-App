@@ -1,5 +1,6 @@
 
-### 📊 Customer Churn Prediction
+##### 📊 Customer Churn Prediction
+
 
 ## 📌 Overview
 
@@ -77,10 +78,11 @@ Try the live app here: [Churn Prediction App](https://customer-churn-prediction-
 
 ---
 
-#👩‍💻 Developed By
+##👩‍💻 Developed By
+
 Jana Hany Mostafa
 
-#📬 Contact
+##📬 Contact
 
 GitHub: @jana-h-any
 
